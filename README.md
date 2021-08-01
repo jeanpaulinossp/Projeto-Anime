@@ -1,2 +1,2 @@
-# Projeto-Animes
-Recriando a página da Netflix usando imagens de Animes
+# Projeto_Netflix
+Recriando a página da Netflix
